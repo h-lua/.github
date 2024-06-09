@@ -2,7 +2,7 @@
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+the+h-lua+framework!;Construct your+own+lua+warcraft3+maps!" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+the+h-lua+framework!;Construct+your+own+lua+warcraft3+maps!" />
 </p>
 
 🚀 h-lua runs on windows platform, is a technical framework. It combines YDWE, DzApi runtime environment, in the original
